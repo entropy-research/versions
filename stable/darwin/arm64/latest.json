@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/entropy-research/devon-code/releases/download/3.9/VSCodium-darwin-arm64-3.9.zip",
+  "url": "https://demo13-public-bucket-20240413.s3.us-east-1.amazonaws.com/VSCodium-darwin-arm64-3.9.zip",
   "name": "3.9",
   "version": "ac0682cef27e374197e2963c0753781bab504648",
   "productVersion": "3.9",
