@@ -1,8 +1,9 @@
 {
+  "url": "https://github.com/entropy-research/devon-code/releases/download/3.9/VSCodium-darwin-arm64-3.9.zip",
   "name": "3.9",
   "version": "ac0682cef27e374197e2963c0753781bab504648",
   "productVersion": "3.9",
-  "hash": "77c4829c1ad92e423596b6d11026357586363662",
-  "timestamp": "1741218604544",
-  "sha256hash": "6cb4b51a138d5259e647f0947a115586b366e4dbf870ac90c2ca05b39e462481"
+  "hash": "9bc111f9b1af77f42f6b3295fc2ba832401361bf",
+  "timestamp": "1741576597133",
+  "sha256hash": "5d8fde5f6f68536d0b078328247620d9f7ce9343101a9068d5a0fe65b079f43e"
 }
